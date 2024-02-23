@@ -55,6 +55,7 @@ IPL-2011	Chennai Super Kings	Royal Challengers Bangalore	Murali Vijay	Chris Gayl
 IPL-2010	Chennai Super Kings	Mumbai Indians	Suresh Raina	Sachin Tendulkar	
 IPL-2009	Deccan Chargers	Royal Challengers Bangalore	Anil Kumble	Adam Gilchrist	
 IPL-2008	Rajasthan Royals	Chennai Super Kings	Yusuf Pathan	Shane Watson	
+
 ![image](https://github.com/Joshiakshaj/IPL_Data_Analysis/assets/129145776/7d8ae663-efcc-4430-b96b-c99ad081a764)
 
 LookUp Table: (Using Vlookup function, referencing copy of the above data in same worksheet)
@@ -62,7 +63,8 @@ LookUp Table: (Using Vlookup function, referencing copy of the above data in sam
 ![image](https://github.com/Joshiakshaj/IPL_Data_Analysis/assets/129145776/d30a6d95-5472-41ed-a019-7c55d9b561a9)
 Values Shift by using Slicer
 
-Slicer: ![image](https://github.com/Joshiakshaj/IPL_Data_Analysis/assets/129145776/b7a623f5-5899-4968-9d49-48aae3f528dd)
+Slicer: 
+![image](https://github.com/Joshiakshaj/IPL_Data_Analysis/assets/129145776/b7a623f5-5899-4968-9d49-48aae3f528dd)
 
 =====================================================================================================================================
 
@@ -70,11 +72,15 @@ DashBoard:
 
 Copy all Pivot Tables on the worksheet labelled "Dashboard"
 
-Insert Shapes as such: ![image](https://github.com/Joshiakshaj/IPL_Data_Analysis/assets/129145776/2d925e6f-0adf-4efc-844a-3084dc3c754d)
+Insert Shapes as such:
+
+![image](https://github.com/Joshiakshaj/IPL_Data_Analysis/assets/129145776/2d925e6f-0adf-4efc-844a-3084dc3c754d)
 ![Screenshot 2024-02-23 145303](https://github.com/Joshiakshaj/IPL_Data_Analysis/assets/129145776/e4e3dc52-af40-4e76-b816-00d30e8a8ba0)
 (Gridlines/Cell Lines can be removed)
 
 Parallely insert Slicer with desirable height, width and color schemes as such:
+
+
 ![Screenshot 2024-02-23 145537](https://github.com/Joshiakshaj/IPL_Data_Analysis/assets/129145776/b4f28fc3-5fa5-458c-bdca-a3318e130296)
 
 Now, Click on the Slicer and Slicer column is enabled to the right of 'Help'
@@ -82,6 +88,7 @@ Report Connections to all Pivot Tables on Dashboard and now the Slicer can be us
 to Look up year wise Stats on all Pivot Tables simultaneously
 
 Final Look for Dashbaord:
+
 ![Screenshot 2024-02-23 145952](https://github.com/Joshiakshaj/IPL_Data_Analysis/assets/129145776/d8afe116-4018-4582-87eb-00d9e131251d)
 
 Key Insights Drawn (2008-2018):
