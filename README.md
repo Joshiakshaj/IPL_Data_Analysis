@@ -22,18 +22,23 @@ Some questions we can find the solutions to in this dataset:
 
 Pivot Tables Created:
 1. Top 7 Winning Teams:
+   
    ![image](https://github.com/Joshiakshaj/IPL_Data_Analysis/assets/129145776/b11290bd-8b2e-4008-985d-ccfb04dd74de)
 
 2. Team Win Vs. Toss Decision:
+   
    ![image](https://github.com/Joshiakshaj/IPL_Data_Analysis/assets/129145776/0acb8341-caa3-4a9d-9021-7aa62626c820)
 
 3. Winner Vs. No. of Times Won
+   
    ![image](https://github.com/Joshiakshaj/IPL_Data_Analysis/assets/129145776/776cd456-d25a-44b0-9d29-5edcafbcfb4d)
 
 4. Toss Decision Vs. Result
+   
    ![image](https://github.com/Joshiakshaj/IPL_Data_Analysis/assets/129145776/f78c2895-4e7b-44c2-bbf0-f8236ac71483)
 
 5. Venuewise Bat Vs. Field
+    
    ![image](https://github.com/Joshiakshaj/IPL_Data_Analysis/assets/129145776/fcf70623-f24f-43a5-a923-dd7d79d6e7bb)
 
 6. LookUp Table
